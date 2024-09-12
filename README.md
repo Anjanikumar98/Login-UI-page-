@@ -1,6 +1,6 @@
 # lgoin_ui
 
-A new Flutter project.
+A basic Flutter project.
 
 ## Getting Started
 
